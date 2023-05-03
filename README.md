@@ -39,7 +39,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> This is my first project at Microverse
+> This is my first project at Microverse using html,css and linters
 
 ## 🛠 Built With <a name="built-with"></a>
 1- HTML
