@@ -32,8 +32,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -88,9 +86,9 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-1, web browser
-2, code editor
-3 git- version control system
+1- web browser
+2- code editor
+3- git- version control system
 
 ### Setup
 
