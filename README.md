@@ -48,20 +48,9 @@
 
 > HTML&CSS
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/html/">HTML/a></li>
-    <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
 - index.html file
 - style.css file
 - linter
@@ -79,8 +68,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -94,23 +81,18 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-
 ```sh
   cd my-folder
   git clone git@github.com:Zerubabel-J/Hello_world.git
-
 
 ### Install
 
 Install this project with:
 
-
 ```sh
   cd my-project
   npm install
 ```
-
-
 ### Usage
 
 To run the project, execute the following command:
@@ -124,17 +106,12 @@ To run tests, run the following command:
 > Comming Soon
 
 ### Deployment
-
-You can deploy this project using:
-
 > Comming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
+## 👥 Author <a name="authors"></a>
 
 👤 **Zerubabel**
 
@@ -142,11 +119,9 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-<!-- > Describe 1 - 3 features you will add to the project. -->
 
 - [ ] ** Mobiel web page **
 
@@ -162,9 +137,6 @@ I am so grateful for Microverse and my friends
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
