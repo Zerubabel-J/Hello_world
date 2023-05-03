@@ -131,8 +131,6 @@ To run tests, run the following command:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I am so grateful for Microverse and my friends
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
