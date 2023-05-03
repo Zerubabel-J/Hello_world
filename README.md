@@ -44,7 +44,7 @@
 2- CSS 
 3- Linter
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">HTML&CSS</a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
